@@ -9,7 +9,7 @@
   </a>
   <a href="https://jitpack.io/#micartey/shallow-copy/master-SNAPSHOT">
     <img
-      src="https://img.shields.io/badge/shallow-copy-master-%2321f21?style=for-the-badge"
+      src="https://img.shields.io/badge/jitpack-master-%2321f21?style=for-the-badge"
       height="30"
     />
   </a>
